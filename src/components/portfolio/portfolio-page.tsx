@@ -25,11 +25,11 @@ export function PortfolioPage() {
         <p className="kicker">Hello, I&apos;m</p>
         <h1 id="intro-title">Ayush Roy.</h1>
         <p className="role">
-          Software engineer building AI and backend systems.
+          engineering student building AI and backend systems.
         </p>
         <p className="bio">
-          I turn ideas into useful software, with a focus on intelligent
-          products, dependable systems, and thoughtful details.
+          I build AI-powered backends and full-stack apps. <br />
+          Learning by building and experimenting real things.
         </p>
         <a className="resume-link" href="/Ayush_Roy_Resume.pdf" download>
           Download résumé <Arrow />
